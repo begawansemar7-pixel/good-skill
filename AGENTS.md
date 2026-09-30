@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 LMS V2 is a modern Learning Management System built with Next.js 16 and Supabase. This is a complete rebuild prioritizing exceptional UX for students and teachers. The project uses **Row Level Security (RLS) for direct database queries** instead of server actions for CRUD operations.
 
+**GoodSkill:** this repository is the GoodSkill fork of lms-front. For GoodSkill work, also read `docs/goodskill/AGENTS.md` (agent rules, stop conditions) and `docs/goodskill/README.md`.
+
 **Key Technologies:**
 
 - Next.js 16.1.5 (App Router, React 19)

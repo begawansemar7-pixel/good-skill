@@ -8,6 +8,8 @@ Multi-tenant SaaS LMS built with Next.js 16 (App Router, React 19) and Supabase.
 
 **Stack:** Next.js 16.1.5 · Supabase (PostgreSQL 15, Auth, Storage) · Shadcn UI (base-mira) · Tailwind CSS v4 · TypeScript strict · Stripe Connect · next-intl (en/es)
 
+**GoodSkill:** this repository is the GoodSkill fork of lms-front. For GoodSkill work, also read `docs/goodskill/AGENTS.md` (agent rules, stop conditions) and `docs/goodskill/README.md`.
+
 ## Commands
 
 ```bash
